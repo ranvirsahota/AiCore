@@ -1,1 +1,0 @@
-print('from module 1')
