@@ -1,0 +1,5 @@
+The capital of France is Pari.
+The capital of Spain is Madrid.
+The capital of Germany is Berlin.
+The capital of Japan is Tokyo.
+The capital of Norway is Oslo.

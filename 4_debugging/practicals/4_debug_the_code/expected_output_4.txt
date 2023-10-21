@@ -1,0 +1,6 @@
+original number 11881118811
+Given number is a palindrome
+original number 125542628
+Given number is not a palindrome
+original number 123789987321
+Given number is a palindrome
