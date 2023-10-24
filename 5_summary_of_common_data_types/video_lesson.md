@@ -1,0 +1,26 @@
+# Summary of Common Data Types
+
+- Tabular Data
+    - File Formats:
+        - .CSV
+        - .JSON
+        - YAML
+    - Spreadsheet like data, can be displayed in table with columns and rows
+    - Structured data because you can always know the meaning of the data under a column
+- Text format
+    - File Formats:
+        - .txt
+        - .pdf
+    - Lot of data on internet is displyed in a text format
+    - Unsturcutred data type as first piece of text can be anything: header, title, or just a paragraph
+- Image Data
+    - File Formats:
+        - png
+        - jpg
+    - data is represented in a grid of numbers, a matrix
+    - Images have colour chanels which depict intensity of that colour
+    - Most images have the colour chanel RGB 
+- Vido
+    - File Fomats
+        - .mp4
+    - Videos are just images taken over time
