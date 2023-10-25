@@ -1,0 +1,19 @@
+default_config: &default
+  user: admin
+  password: securepass123
+  port: 5432
+
+development:
+  <<: *default
+  name: development.db
+  host: development.db.com
+
+staging:
+  <<: *default
+  name: stag
+  host: staging.db.com
+
+production:
+  <<: *default
+  name: production.db
+  host: production.db.com

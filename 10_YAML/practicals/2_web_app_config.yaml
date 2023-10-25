@@ -1,0 +1,19 @@
+%YAML 1.2
+
+database:
+   host: local
+   port: 5432
+   user: dbuser
+   password: dbpass123
+   db_name: webapp_db
+
+server:
+  host: local
+  port: 800
+  mode: development
+  allowed_ips: [192.168.1.1, 192.168.1.2, 10.0.0.1]
+
+logging:
+  level: general
+  file_path: /var/logs/webapp.log
+  rotate_days: 7

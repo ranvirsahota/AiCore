@@ -1,0 +1,15 @@
+first_name : Geralt
+last_name: Rivia
+age: 100
+email: geralt@rivia.wolf
+
+addres:
+  street: Kaer Morhen
+  city: Hertch
+  state: Kaedwen
+  zip: 'SO50 8PR'
+
+hobbies:
+  - killing monsters
+  - drinking potions
+  - haggling clients for all they have
