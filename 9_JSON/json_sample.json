@@ -1,0 +1,5 @@
+[
+    {"Name": "John", "Age": 30, "Address": {"Street": "Main Street", "City": "New York", "State": "NY", "Zip": "10001"}},
+    {"Name": "Peter", "Age": 35, "Address": {"Street": "2nd Street", "City": "Los Angeles", "State": "CA", "Zip": "90001"}},
+    {"Name": "Amy", "Age": 20, "Address": {"Street": "1st Street", "City": "Chicago", "State": "IL", "Zip": "60601"}}
+]
