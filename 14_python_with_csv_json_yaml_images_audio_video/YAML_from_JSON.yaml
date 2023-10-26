@@ -1,0 +1,21 @@
+- employeeCode: E1
+  firstName: Albin
+  jobTitle: Developer
+  lastName: Bailey
+  phoneNumber: '123456'
+  region: CA
+  userId: 28e0a8ff-3a16-46be-be7e-94dc7f67a7d1
+- employeeCode: E2
+  firstName: Carlos
+  jobTitle: Developer
+  lastName: Diaz
+  phoneNumber: '1111111'
+  region: CA
+  userId: ebeb806d-82ec-4c0e-9a91-328fddec94a3
+- employeeCode: E3
+  firstName: Eugene
+  jobTitle: Program Directory
+  lastName: Faraday
+  phoneNumber: '2222222'
+  region: CA
+  userId: facbd40a-53cd-4357-9dac-e85d8bcc0636
