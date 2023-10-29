@@ -28,4 +28,5 @@ for num in reversed(range(lower_department(fire_dept_count, police_dept_count) +
 print(police_dept['BasePay'].mean())
 
 #What is the mean salary of the fire department? Use the BasePay column.
+# Answer = 144449.87079545454
 print(fire_dept['BasePay'].mean())
