@@ -2,4 +2,4 @@ __pycache__/*
 .vscode/*
 
 #Files
-pagila_connection.py
+database_connection.py
